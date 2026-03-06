@@ -1,10 +1,9 @@
-# 📝 Todo App — Master Your Day
-
-Manage your tasks effortlessly. Find the fastest way to organize your workflow as this app adapts intuitively to the productivity you need.
-
-Welcome to the repository for the **Todo App**! This project is a modern, fully responsive task management tool designed to keep your daily activities on track and ensure nothing is forgotten.
-
-🌍 [**Explore the Live Demo Here**](https://pupsao.github.io/todo-app-api/)
+<div align="center">
+  <h1>📝 Todo App — Master Your Day</h1>
+  <p>Manage your tasks effortlessly. Find the fastest way to organize your workflow as this app adapts intuitively to the productivity you need.</p>
+  
+  <h3>🌍 <a href="https://pupsao.github.io/todo-app-api/">Explore the Live Demo Here</a></h3>
+</div>
 
 ## ✨ Project Highlights
 
